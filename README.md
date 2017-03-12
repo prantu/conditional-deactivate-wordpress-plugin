@@ -1,4 +1,4 @@
-# conditional-deactivate-wordpress-plugin
+# Conditionally Deactivate Wordpress Plugins
 This code can deactivate a WordPress plugin for specific pages/posts
 
 # Problems
