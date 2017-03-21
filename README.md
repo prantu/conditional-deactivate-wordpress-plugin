@@ -11,5 +11,5 @@ Wordpress has a system to load must-using plugins first. So I wrote this php cod
 # Steps
 1. Create a folder named 'mu-plugins' in '/wp-content/' folder.
 2. Edit load.php with your customization.
-3. Paste load.php in 'mu-plugins' folder.
+3. Paste load.php in 'mu-plugins' folder. (Create 'mu-plugins' folder if there is none)
 4. Clear cache. You're done!
